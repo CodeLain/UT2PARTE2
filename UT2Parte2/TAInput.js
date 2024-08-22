@@ -1,7 +1,7 @@
 const input = document.getElementById("input");
 
 function campoActivado(){
-    input.style.borderColor = "red";
+    input.style.borderColor = "darkred";
     input.style.borderWidth = "4px"; 
 }
 
